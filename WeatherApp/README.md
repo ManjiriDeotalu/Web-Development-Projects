@@ -31,7 +31,6 @@ Open `index.html` in your preferred web browser.
 ## Deployment
 
   Weather App is deployed and can be accessed [here] ([manjirideotalu.github.io/PRODIGY_WD_05/](https://github.com/ManjiriDeotalu/PRODIGY_WD_05))
-
 ## Usage
 
 1. Enter the city and country in the input field.
