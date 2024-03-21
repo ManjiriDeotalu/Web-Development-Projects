@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>WeatherNow</title>
+</head>
+<body>
+  <div class="container">
+    <div class="search">
+      <input type="text" id="search-input" placeholder="Enter a location">
+      <button id="search-button">Search</button>
+    </div>
+    <div class="weather">
+      <h2 class="place">City, Country</h2>
+      <div class="temp">
+        <h1 class="temperature">--°C</h1>
+      </div>
+      <div class="detail">
+        <img src="weather.png" alt="Weather Icon" class="icon">
+        <div class="details">
+          <p class="description">Partly Cloudy</p>
+        </div>
+      </div>
+      <div class="humidity">
+        <p>Humidity: --%</p>
+      </div>
+      <div class="windspeed">
+        <p>Wind Speed: -- km/h</p>
+      </div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
