@@ -28,6 +28,10 @@ The Weather App provides a straightforward interface for users to input a city's
 
 Open `index.html` in your preferred web browser.
 
+## Deployment
+
+  Weather App is deployed and can be accessed here manjirideotalu.github.io/PRODIGY_WD_05/
+
 ## Usage
 
 1. Enter the city and country in the input field.
